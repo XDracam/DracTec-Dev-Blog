@@ -17,8 +17,8 @@ title: DracTec Dev Blog
 email: reuschel.cameron@live.de
 description: >- # this means to ignore newlines until "baseurl:"
   Posts about whatever dev-related topic is still missing from the internet.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/DracTec-Dev-Blog" # the subpath of your site, e.g. /blog
+url: "https://xdracam.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SethDracam
 github_username:  XDracam
 
