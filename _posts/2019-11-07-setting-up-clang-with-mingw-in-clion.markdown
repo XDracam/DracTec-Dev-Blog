@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting up Clang with MinGW-w64 in Clion"
+title:  "Setting up Clang with MinGW-w64 in Clion on Windows"
 date:   2019-11-07 14:40:13 +0100
 categories: cpp
 ---
